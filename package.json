@@ -1,23 +1,47 @@
 {
-  "name": "bnc-onboard",
-  "version": "0.2.5",
-  "description": "Onboard users to web3 by allowing them to select a wallet, get that wallet ready to transact and have access to synced wallet state.",
+  "name": "dappauth",
+  "version": "0.0.0",
+  "description": "A Plug-n-Play UI interface for adding decentralized authentication to your dapp.",
   "keywords": [
     "ethereum",
     "web3",
-    "blocknative",
-    "wallet"
+    "wallet",
+    "dapp",
+    "simpleaswater",
+    "web3.0",
+    "portis",
+    "metamask",
+    "dapper",
+    "uport",
+    "trezor",
+    "ledger",
+    "fortmatic",
+    "bitski",
+    "squarelink",
+    "keybase",
+    "torus",
+    "3box",
+    "blockchain",
+    "ethereum",
+    "mainnet",
+    "rospsten",
+    "kovan",
+    "rinkeby",
+    "goerli"
   ],
-  "main": "dist/bnc-onboard.js",
-  "module": "dist/bnc-onboard.es5.js",
-  "typings": "dist/src/onboard.d.ts",
+  "main": "dist/dappauth.js",
+  "module": "dist/dappauth.es5.js",
+  "typings": "dist/src/dappauth.d.ts",
   "files": [
     "dist"
   ],
-  "author": "Aaron Barnard <abarnard@protonmail.com>",
+  "contributors": [
+    "Aaron Barnard <abarnard@protonmail.com>",
+    "Vaibhav Saini <hi@simpleaswater.com>"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/blocknative/onboard"
+    "url": "https://github.com/dappkit/dappauth"
   },
   "license": "MIT",
   "devDependencies": {
